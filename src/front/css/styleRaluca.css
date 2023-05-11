@@ -1,0 +1,61 @@
+.raluquinha {
+
+    display: flex;
+    justify-content: center;
+}
+
+.diggo {
+    display: flex;
+
+    margin-bottom: 10px;
+}
+
+.respostaUm {
+
+    width: 20%;
+
+}
+
+.respostaDois {
+
+    width: 80%;
+    border: 1px solid black;
+    border-radius: 10px;
+}
+
+.btnCadastrar {
+    border: 1px solid blue;
+    border-radius: 10px;
+    background-color: transparent;
+    width: 118px;
+    height: 32px;
+}
+
+.btnCadastrar:hover {
+
+    background-color: blue;
+    color: white;
+    transition: 1s;
+
+}
+
+.griffith {
+    width: 500px;
+    height: 482px;
+    background-color: gray;
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    display: none;
+
+}
+
+.berserkerClass {
+    width: 100px;
+    height: 50px;
+    margin-bottom: 50px;
+}
+
+.guts {
+    width: 100%;
+}
